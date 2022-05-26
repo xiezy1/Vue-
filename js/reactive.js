@@ -89,8 +89,3 @@ function compile(node, vm) {
         }
     }
 }
-
-
-
-
-
